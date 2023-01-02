@@ -37,6 +37,10 @@
             </div>
         </div>
         <h1>hello world</h1>
+        <h1>hello world</h1>
+        <h1>hello world</h1>
+        <h1>hello world</h1>
+        <h1>hello world</h1>
         <img width="600" src="{{ asset('img/img1.png') }}" />
     </div>
 </section>
